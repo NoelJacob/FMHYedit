@@ -29,7 +29,7 @@
     "feed": "^4.2.2",
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.1",
-    "nitropack": "^2.11.6",
+    "nitropack": "^2.13.4",
     "nprogress": "^0.2.0",
     "pathe": "^2.0.1",
     "reka-ui": "^2.3.1",
@@ -67,7 +67,7 @@
     "unplugin-auto-import": "^0.18.3",
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-terminal": "^1.2.0",
-    "wrangler": "^3.114.1"
+    "wrangler": "^3.114.17"
   },
   "pnpm": {
     "peerDependencyRules": {
